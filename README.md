@@ -4,15 +4,7 @@ This is a modern, responsive education website built using **React** and **Vite*
 
 ## 🚀 Live Demo
 
-[Click here to view the live site](https://your-live-link.netlify.app)
-
----
-
-## 📸 Screenshots
-
-| Hero Section | Video Modal | Contact Section |
-|--------------|-------------|-----------------|
-| ![Hero](screenshots/hero.png) | ![Video](screenshots/video.png) | ![Contact](screenshots/contact.png) |
+[Click here to view the live site](https://689357260bdb4eaf37b23948--venerable-naiad-e541d4.netlify.app/)
 
 ---
 
